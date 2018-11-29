@@ -13,6 +13,6 @@ collation-server=utf8_bin
 default-storage-engine=INNODB
 max_allowed_packet=256M
 innodb_log_file_size=2GB
-sql_mode = NO_AUTO_VALUE_ON_ZERO
+sql_mode=NO_AUTO_VALUE_ON_ZERO
 transaction-isolation=READ-COMMITTED
 binlog_format=row

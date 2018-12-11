@@ -1,6 +1,6 @@
 #!/bin/bash
 
-confluence-name=confluence-server-crack
-confluence-version=6.6
+confluence_name=confluence-server-crack
+confluence_version=6.6
 
-docker build --rm -t $confluence-name:$confluence-version .
+docker build --rm -t $confluence_name:$confluence_version .
